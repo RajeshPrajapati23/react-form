@@ -1,2 +1,2 @@
 # react-form
-i have created form using reacr
+i have created form using react
